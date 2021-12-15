@@ -1,0 +1,17 @@
+******************** Algorithm Complexities ******************
+BIG O Notation
+
+****** Growth rates ******
+Liner =  Single Loop.
+Quadratic = loop inside of loop.
+Cubic Growth Rate = loop inside loop inside loop -> for{ for { for }}}
+
+****** Asymptotic Notation ******
+n = Number of input.
+Linear Growth Rate = O(n)
+Quadratic Growth Rate = O(n^2)
+Constant Growth Rate = O(1) -> One single operation regardless of number of input size.
+
+What if you don't know the number of loop to fix the problem ?
+
+Exponential  = O(n^n)
